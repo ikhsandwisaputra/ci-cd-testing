@@ -1,0 +1,10 @@
+{
+  "name": "cicd-bun-project",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "bun test",
+    "build": "echo \"build success\""
+  }
+}
